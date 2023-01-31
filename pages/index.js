@@ -2,19 +2,6 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
-import {
-  FacebookShareButton,
-  FacebookIcon,
-  TwitterShareButton,
-  TwitterIcon,
-  TelegramShareButton,
-  TelegramIcon,
-  WhatsappShareButton,
-  WhatsappIcon,
-  LinkedinShareButton,
-  LinkedinIcon,
-} from "next-share";
-
 
 const inter = Inter({ subsets: ['latin'] })
 
